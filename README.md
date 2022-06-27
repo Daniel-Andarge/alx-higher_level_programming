@@ -1,4 +1,4 @@
-![Shell](python.jpg)
+![Shell](python.png)
 
 # Higher-level programming
 
