@@ -1,7 +1,8 @@
-# Python - Classes and Objects 
+# Python - Test-driven development
 ## About
-project on Python - Classes and Objects.
-##What i learn:
+Project on Python TDD(Test-driven development).
+
+What i learn:
 - What’s an interactive test
 - Why tests are important
 - How to write Docstrings to create tests
@@ -9,7 +10,7 @@ project on Python - Classes and Objects.
 - What are the basic option flags to create tests
 - How to find edge cases
 
-### Requirements 
+## Requirements  
 
 - Allowed editors: vi, vim, emacs
 - All your files should end with a new line
