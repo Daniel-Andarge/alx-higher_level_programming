@@ -22,7 +22,7 @@ An Object is an instance of a Class. A class is like a blueprint while an instan
 
 ## Requirements  
 
-#Python Scripts
+### Python Scripts
  - Allowed editors: vi, vim, emacs
  - All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
  - All your files should end with a new line
@@ -32,10 +32,10 @@ An Object is an instance of a Class. A class is like a blueprint while an instan
  - All your files must be executable
  - The length of your files will be tested using wc
 
-#.txt Answer Files
+### .txt Answer Files
  - Only one line
  - No Shebang
  - All your files should end with a new line
 
 ## Author
- Daniel Andarge ([Linkedin](https://www.linkedin.com/in/danielandarge/)). 
+Daniel Andarge | [LinkedIn](https://www.linkedin.com/in/danielandarge/) | [Website](https://danielandargei.com/) 
