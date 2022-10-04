@@ -3,14 +3,14 @@
 // - Rotate and Double the width and height of the Rectangle
 
 module.exports = class Rectangle {
-  constructor (w, h) {
+  constructor (width, height) {
     if (w > 0 && h > 0) {
       this.width = w;
       this.height = h;
     }
   }
 
- print (char = 'X') {
+  print (char = 'X') {
     for (let i = 0; i < this.height; ++i) {
       let j = 0;
 
@@ -23,6 +23,16 @@ module.exports = class Rectangle {
       }
     }
   }
+
+  rotate () {
+    [this.width, this.height] = [this.height, this.width];
+  }
+
+  double () {
+    this.width *= 2;
+    this.height *= 2;
+  }
+};
 
   rotate () {
     [this.width, this.height] = [this.height, this.width];
