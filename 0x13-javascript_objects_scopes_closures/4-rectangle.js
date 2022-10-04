@@ -3,7 +3,7 @@
 // - Rotate and Double the width and height of the Rectangle
 
 module.exports = class Rectangle {
-  constructor (width, height) {
+  constructor (w, h) {
     if (w > 0 && h > 0) {
       this.width = w;
       this.height = h;
