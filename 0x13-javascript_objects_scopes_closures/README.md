@@ -1,5 +1,8 @@
 # ```Javascript - Objects, Scopes and Closures```
   Tasks involved writing various introductory-level JavaScript scripts on Node.js.
+
+[![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
+
 # Learning Objectives
 
 * How to create an object in Javascript
