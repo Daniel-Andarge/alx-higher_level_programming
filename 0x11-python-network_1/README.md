@@ -28,6 +28,4 @@ Mandatory:
 | [7-error_code.py]() | Python script that takes in a URL, sends a request to the URL and displays the body of the response. |
 | [8-json_api.py]() | Python script that takes in a letter and sends a `POST` request to `http://0.0.0.0:5000/search_user` with the letter as a parameter. |
 | [10-my_github.py]() | Python script that takes your GitHub credentials (username and password) and uses the `GitHub API` to display your `id`. |
-| [100-github_commits.py]() | Python script that takes 2 arguments in order to list 10 commits (from the most recent to oldest) of the repository “rails” by the user “rails”
-You must use the GitHub API, here is the documentation https://developer.github.com/v3/repos/commits/
-Print all commits by: `<sha>: <author name>` (one by line). |
+| [100-github_commits.py]() | Python script that takes 2 arguments in order to list 10 commits (from the most recent to oldest) of the repository "rails" by the user "rails" You must use the GitHub API, here is the documentation https://developer.github.com/v3/repos/commits/Print all commits by: `<sha>: <author name>` (one by line). |
